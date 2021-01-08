@@ -1,5 +1,5 @@
 {
-  "name": "my_websocket_server",
+  "name": "my-websocket-server",
   "version": "1.0.0",
   "description": "basic websocket server",
   "main": "index.html",
