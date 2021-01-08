@@ -1,0 +1,15 @@
+{
+  "name": "my_websocket_server",
+  "version": "1.0.0",
+  "description": "basic websocket server",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ASSAM Developers",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.4.2"
+  }
+}
