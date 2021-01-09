@@ -30,7 +30,7 @@
                 ws.close();
             }
 
-            ws = new WebSocket('ws://localhost:6969');
+            ws = new WebSocket('wss://my-websocket-server.herokuapp.com/:6667');
             ws.onopen = () => {
                 console.log('Connection opened!');
             }
